@@ -15,4 +15,4 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/top-n-products.git
+   git clone https://github.com/harshitasoni-09/ENG21EC0037.git
