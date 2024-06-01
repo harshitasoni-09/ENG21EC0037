@@ -10,6 +10,9 @@ To run this application locally, follow these steps:
 
 - Node.js and npm should be installed on your machine.
 
+### Screenshot of GET Request
+![Screenshot 2024-06-01 114058](https://github.com/harshitasoni-09/ENG21EC0037/assets/127110597/7302747a-7f7e-4058-9814-033bcc845a8e)
+
 ### Installation
 
 1. Clone this repository to your local machine:
