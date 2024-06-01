@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 8px;
+  width: 200px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.product h2 {
+  font-size: 1.25em;
+  margin-bottom: 8px;
+}
